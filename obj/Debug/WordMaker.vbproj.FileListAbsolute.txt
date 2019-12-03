@@ -1,0 +1,12 @@
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\bin\Debug\WordMaker.exe
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\bin\Debug\WordMaker.pdb
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\bin\Debug\WordMaker.xml
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.vbprojAssemblyReference.cache
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.AboutDialog.resources
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.Form1.resources
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.Resources.resources
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.vbproj.GenerateResource.cache
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.vbproj.CoreCompileInputs.cache
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.exe
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.xml
+C:\Users\Scott\Documents\VB Projects\Projects\WordMaker\obj\Debug\WordMaker.pdb
